@@ -28,6 +28,9 @@ zombie are simply a light-blue circle that try to catch you using an implementat
 # About
 in the left side you have the pause button that cam be pressed in any time, the game is currently feature poor, but it will be replaced by a new version
 
+# Contributors
+[bukkalexander](https://github.com/bukkalexander/AndroidStudio2DGameDevelopment)
+
 
 # Requirements
 * Andoid Studio
